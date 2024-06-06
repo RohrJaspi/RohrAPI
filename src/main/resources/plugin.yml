@@ -1,0 +1,6 @@
+name: RohrAPI
+version: '${project.version}'
+main: dev.rohrjaspi.rohrapi.Main
+api-version: '1.20'
+authors: [rohrjaspi]
+website: https://rohrjaspi.de

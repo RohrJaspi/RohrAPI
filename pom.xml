@@ -61,6 +61,14 @@
         </repository>
     </repositories>
 
+    <distributionManagement>
+        <repository>
+            <id>github</id>
+            <name>RohrAPI</name>
+            <url>https://maven.pkg.github.com/RohrJaspi/RohrAPI</url>
+        </repository>
+    </distributionManagement>
+
     <dependencies>
         <dependency>
             <groupId>io.papermc.paper</groupId>

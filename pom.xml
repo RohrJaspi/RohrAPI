@@ -62,12 +62,12 @@
     </repositories>
 
     <distributionManagement>
-        <repository>
-            <id>github</id>
-            <name>RohrAPI</name>
-            <url>https://maven.pkg.github.com/RohrJaspi/RohrAPI</url>
-        </repository>
-    </distributionManagement>
+    <repository>
+        <id>github</id>
+        <name>GitHub RohrAPI Apache Maven Packages</name>
+        <url>https://maven.pkg.github.com/RohrJaspi/RohrAPI</url>
+    </repository>
+</distributionManagement>
 
     <dependencies>
         <dependency>
